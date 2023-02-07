@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Counter {
+public class Counter {
+    public static void main(String[] args) {
+        for (int i = 0; i <15; i++) {
+System.out.print(i+ " ");
+        }
+    }
 }
