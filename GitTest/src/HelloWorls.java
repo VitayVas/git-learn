@@ -1,5 +1,5 @@
 public class HelloWorls {
     public static void main(String[] args) {
-        System.out.println("Name not c");
+        System.out.println("Name not ");
     }
 }
